@@ -86,7 +86,7 @@ Users should be able to:
 
 - Github - [Thiago Ando de Freitas](https://github.com/ThiagoAndo)
 - Personal website - [Portfolio](https://thiago-freitas-portfolio.vercel.app/)
-- Alive website - [UI-Next-store-API](https://next-store-api-62m2.onrender.com/userInterface) - Note : You may
+- Live website - [UI-Next-store-API](https://next-store-api-62m2.onrender.com/userInterface) - Note : You may
  experience a delay in server response on your first request due to the free hosting service
   provided by RENDER.
 
